@@ -2,11 +2,9 @@
   <a href="#"><img src="https://preview.redd.it/e2osw2995p571.jpg?auto=webp&s=849e148e214e1e5bf79e2977d1d2058d6408b28d" alt="NinoMusic"></a>
 </h1>
 
-### Hi there, I'm Wilard - aka [SadSenpai][website] 👋 
+### Hi there, I'm Willard - aka [Hachiki][website] 👋 
 
-[![Website](https://img.shields.io/website?label=sadgesenpai.ml&style=for-the-badge&url=https%3A%2F%2Fsadgesenpai.ml)](https://sadgesenpai.ml)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3FD5fmDj2S3hbWx08KoMqA?label=SadSenpai&logo=Youtube&logoColor=%23FF0000&style=for-the-badge)](https://youtube.com/wilardzysenpai)
-[![Discord](https://img.shields.io/discord/911477934332715100?label=SkyAnime&logo=Discord&logoColor=%235865F2&style=for-the-badge)](https://discord.gg/JehBMxdef5)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fpaluga-portfolio.vercel.app)](https://paluga-portfolio.vercel.app)
 
 ## I'm a Students, Developer, and a Weeb :D
 
@@ -22,45 +20,33 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://osu.ppy.sh/users/18601796" width="22px" src="https://i.ppy.sh/013ed2c11b34720790e74035d9f49078d5e9aa64/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f4272616e645f6964656e746974795f67756964656c696e65732f696d672f75736167652d66756c6c2d636f6c6f75722e706e67" />][osu]
-[<img align="left" alt="sadgesenpai.ml" width="22px" src="https://sadgesenpai.ml/images/nino1.jpg" />][website]
-[<img align="left" alt="SadSenpai | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/800px-YouTube_social_red_circle_%282017%29.svg.png" />][youtube]
-[<img align="left" alt="SkyAnime | Discord" width="22px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />][discord]
+[<img align="left" alt="paluga-portfolio.vercel.app" width="22px" src="https://paluga-portfolio.vercel.app/favicon.ico" />][website]
+[<img align="left" alt="hachiki." width="22px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />][discord]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="NextJS" width="26px" src="https://logo.svgcdn.com/devicon/nextjs-original.png">
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png">
+<img align="left" alt="TailwindCSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png">
+<img align="left" alt="Java" width="26px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png">
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png">
+<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/960px-Logo_C_sharp.svg.png">
+<img align="left" alt="Qt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Qt_logo_2015.svg">
+<img align="left" alt="Inno Setup Compiler" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Inno_Setup_icon.png">
 
 <br />
 <br />
-
-----
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Advance Discord Ticket Bot](https://www.youtube.com/watch?v=f4DzabIZ8C0)
-- [Creating Your All-in-One Discord Bot](https://www.youtube.com/watch?v=2L3i7NQ8DCM)
-- [Make &amp; Deploy Your Own Discord Bot Less than a minute](https://www.youtube.com/watch?v=2G0IPAfUTrU)
-- [How To Make Your Own Discord Bot Starting From 0 | Logging in and Register slash commands | DJS v.14](https://www.youtube.com/watch?v=qYDTkFyaU5E)
-- [How To Make Your Own Database Using MongoDB &lpar;built in admin role&rpar; | 2023](https://www.youtube.com/watch?v=8XhUKYVd5p4)
-<!-- YOUTUBE:END -->
-
-
-
-        
-    
-
-➡️ [more videos...](https://youtube.com/wilardzysenpai)
 
 ---
 
@@ -76,10 +62,5 @@
 
 </details>
 
-[website]: https://sadgesenpai.tk
-[youtube]: https://youtube.com/wilardzysenpai
-[discord]: https://discord.gg/JehBMxdef5
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[osu]: https://osu.ppy.sh/users/18601796
+[website]: https://paluga-portfolio.vercel.app
+[discord]: [https://discord.gg/JehBMxdef5](https://discord.com/users/939867069070065714)
