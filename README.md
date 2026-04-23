@@ -54,7 +54,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/WilardzySenpai/The-Fun-Piece/pull/1) in [WilardzySenpai/The-Fun-Piece](https://github.com/WilardzySenpai/The-Fun-Piece)
+1. 💪 Opened PR [#2](https://github.com/Seraphine-cmd/TheAlleyWebsite/pull/2) in [Seraphine-cmd/TheAlleyWebsite](https://github.com/Seraphine-cmd/TheAlleyWebsite)
   <!--END_SECTION:activity-->
   
 
