@@ -54,7 +54,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Seraphine-cmd/TheAlleyWebsite/pull/2) in [Seraphine-cmd/TheAlleyWebsite](https://github.com/Seraphine-cmd/TheAlleyWebsite)
+1. 🚀 Published release [ClickerProMax v1.0.0](https://github.com/Hachiiki/ClickerProMax/releases/tag/v1.0.0) in [Hachiiki/ClickerProMax](https://github.com/Hachiiki/ClickerProMax)
   <!--END_SECTION:activity-->
   
 
