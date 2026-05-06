@@ -54,7 +54,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [ClickerProMax v1.0.0](https://github.com/Hachiiki/ClickerProMax/releases/tag/v1.0.0) in [Hachiiki/ClickerProMax](https://github.com/Hachiiki/ClickerProMax)
+1. 🚀 Published release [ClickerProMax v1.1.0 - Multi-Point Pro](https://github.com/Hachiiki/ClickerProMax/releases/tag/v1.1.0) in [Hachiiki/ClickerProMax](https://github.com/Hachiiki/ClickerProMax)
   <!--END_SECTION:activity-->
   
 
