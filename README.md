@@ -54,7 +54,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [RestLock v1.1.0](https://github.com/Hachiiki/RestLockPro/releases/tag/v1.1.0) in [Hachiiki/RestLockPro](https://github.com/Hachiiki/RestLockPro)
+1. 🎉 Merged PR [#2](https://github.com/Hachiiki/RestLockPro/pull/2) in [Hachiiki/RestLockPro](https://github.com/Hachiiki/RestLockPro)
   <!--END_SECTION:activity-->
   
 
