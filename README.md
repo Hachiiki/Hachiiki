@@ -54,7 +54,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#31](https://github.com/Hachiiki/AICSPortal/issues/31) in [Hachiiki/AICSPortal](https://github.com/Hachiiki/AICSPortal)
+1. ❗ Opened issue [#17](https://github.com/ajt9557-pixel/EMS/issues/17) in [ajt9557-pixel/EMS](https://github.com/ajt9557-pixel/EMS)
   <!--END_SECTION:activity-->
   
 
