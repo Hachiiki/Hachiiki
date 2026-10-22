@@ -54,7 +54,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/Hachiiki/AICSPortal/issues/80#issuecomment-6329906912) in [Hachiiki/AICSPortal](https://github.com/Hachiiki/AICSPortal)
+1. 🔒 Closed issue [#79](https://github.com/Hachiiki/AICSPortal/issues/79) in [Hachiiki/AICSPortal](https://github.com/Hachiiki/AICSPortal)
   <!--END_SECTION:activity-->
   
 
