@@ -54,7 +54,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/Hachiiki/AICSPortal/pull/93) in [Hachiiki/AICSPortal](https://github.com/Hachiiki/AICSPortal)
+1. 🎉 Merged PR [#94](https://github.com/Hachiiki/AICSPortal/pull/94) in [Hachiiki/AICSPortal](https://github.com/Hachiiki/AICSPortal)
   <!--END_SECTION:activity-->
   
 
